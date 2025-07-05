@@ -1,0 +1,8 @@
+{
+  "name": "my-upload-vercels",
+  "version": "1.0.0",
+  "dependencies": {
+    "@bundlr-network/client": "^0.12.0",
+    "ethers": "^5.7.2"
+  }
+}
