@@ -1,5 +1,5 @@
 {
-  "name": "my-upload-vercels",
+  "name": "my-upload-vercel",
   "version": "1.0.0",
   "dependencies": {
     "@bundlr-network/client": "^0.12.0",
