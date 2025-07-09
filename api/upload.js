@@ -1,4 +1,4 @@
-import { WebIrys } from "@irys/sdk";
+import { WebBundlr } from "@bundlr-network/client";
 const { ethers } = require("ethers");
 
 export default async function handler(req, res) {
